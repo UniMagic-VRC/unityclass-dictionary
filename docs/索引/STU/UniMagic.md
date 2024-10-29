@@ -10,4 +10,4 @@ UniMagicは「[魔術学舎United](/docs/索引/ま行/魔術学舎United)」の
 
 イベント外部向けには主に魔術学舎Unitedの名称が使われることが多いですが、イベント参加者間では主にUniMagicの通称が使われることがほとんどかと思われます。
 
-[Unity本科](/docs/索引/Unity本科)はUniMagicに存在する学科の1つです。
+[Unity本科](/docs/索引/STU/Unity本科)はUniMagicに存在する学科の1つです。

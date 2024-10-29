@@ -64,7 +64,7 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: "img/Unimagic-Logotype1BKBGW-2048x1024.png",
+    image: "img_UniMagic/Unimagic-Logotype1BKBGW-2048x1024.png",
     navbar: {
       title: "Unity本科 用語集",
       logo: {

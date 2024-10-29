@@ -6,11 +6,11 @@ VRSNS用途に特化した多機能なシェーダーのひとつ
 
 ## なに？
 
-lilToonとは、[lil](https://x.com/lil_xyzw)氏によって開発されている、[Unity](../STU/Unity)上で動作するVRSNS向けの[トゥーン](../た行/トゥーン) [シェーダー](../STU/Shader)です。
+lilToonとは、lil氏[^1] によって開発されている、[Unity](../STU/Unity)上で動作するVRSNS向けの[トゥーン](../た行/トゥーン) [シェーダー](../STU/Shader)です。
 
 高い表現力がありつつも軽量かつUIがわかりやすいため評価が高く、多くのアバター制作者・衣装制作者が採用しています。
 
-事実、BOOTHにおいて「3Dモデル」タグをスキ順に並べたときの上位10アバターおよび衣装[^1] のうち以下の8点はどれもlilToonの利用を前提としたものです。
+事実、BOOTHにおいて「3Dモデル」タグをスキ順に並べたときの上位10アバターおよび衣装[^2] のうち以下の8点はどれもlilToonの利用を前提としたものです。
 
 - 桔梗
 - マヌカ
@@ -25,4 +25,6 @@ lilToonとは、[lil](https://x.com/lil_xyzw)氏によって開発されてい�
 
 2024年現在のVRChat日本人コミュニティにおけるデファクトスタンダード(事実上の標準とみなされたもの)なシェーダーといえるかもしれません。
 
-[^1]: https://booth.pm/ja/items?sort=wish_lists&tags%5B%5D=3Dモデル 2024/10/29閲覧
+[^1]: [lil（@lil_xyzw）さん / X](https://x.com/lil_xyzw)
+
+[^2]: https://booth.pm/ja/items?sort=wish_lists&tags%5B%5D=3Dモデル 2024/10/29閲覧

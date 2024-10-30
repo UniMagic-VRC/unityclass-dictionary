@@ -16,4 +16,6 @@ AAOの各ツールを活用することで、以下に示すVRChatのアバタ�
 - [ボーン](/docs/索引/ABC/Bone)の数(の削減): Trace And Optimize
 - 三角[ポリゴン](/docs/索引/PQR/Polygon)(の削減): Remove Mesh xxx
 
+パフォーマンスランクを上げることは「より多くの人に本来の姿で自身のアバターを見せられる可能性を上げること」にも繋がりますので、可能な限り意識していきたい項目といえるでしょう。
+
 [^1]: https://x.com/anatawa12_vrc

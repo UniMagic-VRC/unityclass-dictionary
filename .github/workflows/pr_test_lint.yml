@@ -1,0 +1,23 @@
+name: PR Lint Check
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  lint-check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: yarn
+
+      - name: Install dependencies
+        run: yarn install --frozen-lockfile
+
+      - name: Run markdownlint check
+        run: yarn markdownlint

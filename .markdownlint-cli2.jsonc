@@ -1,0 +1,19 @@
+{
+  "config": {
+    "default": true,
+    "MD013": false,
+    "MD034": false,
+    "MD041": false,
+    "search-replace": {
+      "rules": [
+        {
+          "name": "相対パスによる他記事へのリンクの禁止",
+          "message": "他の記事へのリンクは絶対パスで記述してください",
+          "searchPattern": "/\\.\\.(\\/(ABC|DEF|GHI|JKL|MNO|PQR|STU|VWX|YZ|(あ|か|さ|た|な|は|ま|や|ら|わ)行|数字・記号)\\/[^\\)]+\\))/g",
+          "replace": "/docs/索引$1"
+        }
+      ]
+    }
+  },
+  "customRules": ["markdownlint-rule-search-replace"]
+}

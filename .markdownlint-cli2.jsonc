@@ -1,9 +1,9 @@
 {
   "config": {
     "default": true,
-    "MD013": false,
-    "MD034": false,
-    "MD041": false,
+    "MD013": { "line_length": 200 }, // 80文字は短すぎるし長すぎるのもアレなので
+    "MD034": false, // <>で囲うとmdx-loaderがエラー吐いちゃうので
+    "MD041": false, // 1行目はメタデータが来るのでこのルールは不適
     "search-replace": {
       "rules": [
         {

@@ -10,7 +10,7 @@ Unity本科基盤授業は全5回の授業から構成されています。
 - [2回目](/docs/tags/2-回目): "魔法のことはじめ" [Unityの画面構成](/docs/索引/STU/Unityの画面構成)について
   - [コンポーネント](/docs/索引/ABC/Component)
   - [Scene](/docs/索引/STU/Scene-File)
-- [3回目](/docs/tags/3-回目): "素材が変われば色も変わる" [色改変](/docs/索引/あ行/色改変)および[テクスチャ改変](/docs/索引/た行/テクスチャ改変)
+- [3回目](/docs/tags/3-回目): "素材が変われば色も変わる" [色改変](/docs/索引/あ行/色改変)
   - [Renderer](/docs/索引/PQR/Renderer)
   - [Shader](/docs/索引/STU/Shader)
 - [4回目](/docs/tags/4-回目): "アイテムは装備しないと使えない" [アクセサリー改変](/docs/索引/あ行/アクセサリー改変)

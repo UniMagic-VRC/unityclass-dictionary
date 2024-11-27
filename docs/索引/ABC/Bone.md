@@ -49,9 +49,7 @@ VRChat向けアバターの場合、ボーンの階層構造は[Unity](/docs/索
 
 ![ハオラン君の骨](/img_dictionary/Bone_1.png)
 
-また、[VRCSDK](/docs/索引/VWX/VRCSDK)における[PhysBone](/docs/索引/PQR/PhysBone)は名前こそ「Bone」が含まれてますがPhysBone=本記事のボーン、では**ありません**。本記事のボーンとは異なる概念なので注意が必要です。
-
-PhysBoneは[コンポーネント](/docs/索引/ABC/Component)の一種ですが、ボーンは相当するコンポーネントが存在しないことに注意してください。より詳しくは[UnityにおけるBoneの表現について](/docs/索引/STU/UnityにおけるBoneの表現について)を参照してください。
+また、[VRCSDK](/docs/索引/VWX/VRCSDK)における[PhysBone](/docs/索引/PQR/PhysBone)は名前こそ「Bone」が含まれてますがPhysBone=本記事のボーン、では**ありません**。本記事のボーンとは異なる概念です。PhysBoneは[コンポーネント](/docs/索引/ABC/Component)の一種ですが、ボーンは相当するコンポーネントが存在しないことに注意してください。
 
 余談ですが、ヒューマノイドアバターで定義されているボーンの名前を他のオブジェクトで使うと不具合が生じるおそれがあります[^5] 。たとえば、アバターの顔の[メッシュ](/docs/索引/MNO/Mesh)にあたるオブジェクトの名前を頭部のパーツだから、と「Head」にするとHeadボーンと名前の競合が起こり、リグ設定時にエラーとなります。
 

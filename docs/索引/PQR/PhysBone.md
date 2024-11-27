@@ -14,6 +14,9 @@ PhysBone(PBと略されることもある)とは、VRChat社が開発・提供�
 
 2022年3月頃、VRChat社からリリースされたPhysBoneによりこの状況は劇的に改善されたようです。揺れものを使いたいユーザは別途DynamicBoneアセットを買う必要はなくなり、よりVRCに最適化された揺れものの表現が可能になりました。
 
-なお、PhysBoneには名前こそ「Bone(ボーン)」が含まれてますが、いわゆる3DCGにおける[ボーン](/docs/索引/ABC/Bone)の概念とは厳密には異なるものなので注意が必要です。PhysBoneにはボーンのようなリグやスキニングに関する設定情報は一切持っておらず、**あくまでも特定のGameObjectの集まりを揺れもののように動きをシミュレートさせるためのものに過ぎない**のです。
+なお、PhysBoneには名前こそ「Bone(ボーン)」が含まれてますが、いわゆる3DCGにおける[ボーン](/docs/索引/ABC/Bone)の概念とは異なります。
+Boneは「[スキニング](/docs/索引/STU/Skinning)された[メッシュ](/docs/索引/MNO/Mesh)を動かすためのもの」ですが、PhysBoneはBone(および**あらゆる**GameObject)に揺れものやバネなどの物理演算を表現するための機能です。
+
+PhysBoneにはボーンのようなリグやスキニングに関する設定情報は一切持っておらず、**あくまでも特定のGameObjectの集まりを揺れもののように動きをシミュレートさせるためのものに過ぎない**のです。
 
 [^1]: https://assetstore.unity.com/packages/tools/animation/dynamic-bone-16743

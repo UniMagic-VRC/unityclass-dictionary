@@ -4,7 +4,9 @@ sidebar_position: 1
 
 # はじめに
 
-Unity本科 用語集へようこそ！
+![logo](/img_UniMagic/glintmore.png)
+
+[Glint More(グリントモア)](/docs/索引/GHI/GlintMore) - Unity本科用語集へようこそ！
 
 本サイトは、「より自由な[アバター改変](/docs/索引/あ行/アバター改変)ができること」を目標として自発的に様々な技術を学ぼうとする皆さんを応援し、その手助けになることを目標として作られています。
 

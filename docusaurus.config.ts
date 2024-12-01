@@ -3,9 +3,9 @@ import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
-  title: "Unity本科 用語集",
+  title: "Glint More(グリントモア) - Unity本科用語集",
   tagline: '"自由な世界で、学び続けることと覚えよ。" - UniMagic憲章',
-  favicon: "img/favicon.ico",
+  favicon: "img_UniMagic/favicon.ico",
 
   // Set the production url of your site here
   url: "https://unimagic-vrc.github.io",
@@ -64,12 +64,12 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: "img_UniMagic/Unimagic-Logotype1BKBGW-2048x1024.png",
+    image: "img_UniMagic/glintmore.png",
     navbar: {
-      title: "Unity本科 用語集",
+      title: "Glint More(グリントモア) - Unity本科用語集",
       logo: {
         alt: "UniMagic Logo",
-        src: "img_UniMagic/Unimagic-LogoCircleBK-1k.png",
+        src: "img_UniMagic/glintmore_simple.png",
       },
       items: [
         {

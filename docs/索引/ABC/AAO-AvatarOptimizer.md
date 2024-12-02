@@ -1,5 +1,5 @@
 ---
-title: AAO:AvatarOptimizer
+title: "AAO: Avatar Optimizer"
 tags: [ゲームエンジン, 5回目]
 ---
 
@@ -7,7 +7,7 @@ tags: [ゲームエンジン, 5回目]
 
 ## なに？
 
-AAO:AvatarOptimizerは、anatawa12氏[^1] によって開発されている、[アバター軽量化](/docs/索引/あ行/アバターの軽量化)を手軽に実行するためのツール群です。
+AAO: Avatar Optimizerは、anatawa12氏[^1] によって開発されている、[アバター軽量化](/docs/索引/あ行/アバターの軽量化)を手軽に実行するためのツール群です。
 
 AAOの各ツールを活用することで、以下に示すVRChatのアバターパフォーマンスの各項目を向上できる可能性があります。
 

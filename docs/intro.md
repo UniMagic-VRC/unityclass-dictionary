@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # はじめに
 
-![logo](/img_UniMagic/glintmore.png)
+![Glint More(グリントモア) - Unity本科用語集へようこそ！](/img_UniMagic/glintmore.png)
 
 [Glint More(グリントモア)](/docs/索引/GHI/GlintMore) - Unity本科用語集へようこそ！
 
